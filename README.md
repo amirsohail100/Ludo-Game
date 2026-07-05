@@ -36,7 +36,7 @@ Since this is a client-side web application, you can run it locally without any 
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/your-username/ludo-game.git](https://github.com/your-username/ludo-game.git)
+git clone [https://github.com/amirsohail100/Ludo-Game.git](https://github.com/amirsohail100/Ludo-Game.git)
 ```
 
 A classic Ludo game built using HTML, CSS, and JavaScript! The project is currently Under Development, focusing on core gameplay mechanics. A stunning, responsive UI and exciting features are coming soon. Stay tuned for updates!
