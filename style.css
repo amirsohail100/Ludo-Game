@@ -1,0 +1,103 @@
+/* body{
+    background: linear-gradient(135deg, #aca297, #565468);
+} */
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial;
+}
+.de{
+    background-image: url(de6.jpg);
+    height: 10vmin;
+    width: 10vmin;
+    border: 4px solid black;
+    border-radius: 1.5vmin;
+    background-size: cover;
+}
+
+.game-barod{
+    background-image: url(game2.jpg);
+    height: 70vmin;
+    width: 70vmin;
+    border: 4px solid black;
+    border-radius: 1.5vmin;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.ply{
+    background-color: blue;
+    height: 4vmin;
+    width: 4vmin;
+    border-radius: 50%;
+    margin-left: 6vmin;
+    margin-top: 6vmin;
+    border: 2px solid yellow;
+    
+}
+
+.game-main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+    /* flex-wrap: wrap; */
+}
+
+
+.de-main{
+    display: flex;
+    text-align: center;
+    margin-top: 5vmin;
+    justify-content: space-around;
+    
+}
+.but{
+    display: flex;
+    text-align: center;
+    margin-top: 5vmin;
+    justify-content: space-around;
+    
+}
+
+button{
+    height: 8vmin;
+    width: 20vmin;
+    border: none;
+    border-radius: 1.5vmin;
+    background: linear-gradient(135deg, #06e7ab, #5e5597);
+    font-size: 3vmin;
+    font-weight: 700;
+    font-family: Arial;
+}
+.win-bar{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+p{
+    padding-top: 2vmin;
+    height: 6vmin;
+    width: 20vmin;
+    border: none;
+    border-radius: 1.5vmin;
+    font-size: 3vmin;
+    font-weight: 700;
+    font-family: Arial;
+}
+
+.pl1{
+    height: 27vmin;
+    border: solid;
+    width: 27vmin;
+    margin-bottom: 14.5vmin;
+    display: flex;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+
+    /* background-color:red ; */
+}
